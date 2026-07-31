@@ -1,90 +1,115 @@
 <div align="center">
-  <h1>👋 Hi, I'm Ahmad Ijaz</h1>
-  <p><strong>Lead Software Engineer · Technical Project Manager</strong></p>
-  <a href="https://ahmadijaz.github.io/Portfolio/?temp=LSE">🌐 Portfolio (Engineer)</a> ·
-  <a href="https://ahmadijaz.github.io/Portfolio/?temp=PM">📋 Portfolio (PM)</a> ·
-  <a href="https://www.linkedin.com/in/ahmad-ijaz/">💼 LinkedIn</a> ·
-  <a href="mailto:codeveloper3@gmail.com">📬 Email</a>
+
+<!-- Animated typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=57E3A0&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmad+Ijaz+%F0%9F%91%8B;Lead+Software+Engineer;Technical+Project+Manager;8%2B+Years+Building+at+Scale" alt="Typing SVG" />
+
+<br/>
+
+<!-- Profile photo -->
+<img src="https://avatars.githubusercontent.com/AhmadIjaz" width="130" style="border-radius:50%;border:3px solid #57E3A0;margin:16px 0;" alt="Ahmad Ijaz"/>
+
+<br/>
+
+<!-- Badges row -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0b0f?style=for-the-badge&logo=githubpages&logoColor=57E3A0)](https://ahmadijaz.github.io/Portfolio/?temp=LSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ijaz/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeveloper3@gmail.com)
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=AhmadIjaz&color=57e3a0&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-Eight years in, I still do both.
+## 👨‍💻 About Me
 
-I've spent 8+ years building scalable software systems, designing integrations, and simultaneously owning delivery programmes at enterprise scale. That combination means I catch problems before they become incidents, communicate credibly at every level, and make decisions that hold up in both a sprint review and a board update.
+> *Eight years in, I still do both.*
 
-For the past several years I've been leading engineering and delivery for a US-based SaaS platform, managing distributed cross-functional teams, driving Agile programmes across time zones, and building AI-powered systems that changed how the team operates day to day. Not AI as a talking point — AI as infrastructure. I've shipped production MCP (Model Context Protocol) servers, RAG pipelines, and automation workflows that measurably reduced overhead and accelerated delivery across a real engineering team.
+I've spent **8+ years** building scalable software systems, designing integrations, and simultaneously owning delivery programmes at enterprise scale. That combination means I catch problems before they become incidents, communicate credibly at every level, and make decisions that hold up in both a sprint review and a board update.
+
+For the past several years I've been leading engineering and delivery for a **US-based SaaS platform**, managing distributed cross-functional teams, driving Agile programmes across time zones, and building **AI-powered systems** that changed how the team operates day to day. Not AI as a talking point — AI as infrastructure. I've shipped production **MCP (Model Context Protocol) servers**, RAG pipelines, and automation workflows that measurably reduced overhead and accelerated delivery across a real engineering team.
 
 **What I bring:**
 
-- 🔹 End-to-end delivery ownership — roadmap to release, with the metrics to show for it
-- 🔹 Technical leadership — architecture input, code reviews, and engineering decisions, not just coordination
-- 🔹 AI-native workflows — MCP, RAG, vector search, and automation built into how teams actually work
-- 🔹 Integration programmes — payment gateways, POS systems, CRMs, webhooks, and third-party platforms
-- 🔹 Cross-functional team leadership — distributed teams, multiple workstreams, stakeholders across time zones
+| | |
+|---|---|
+| 🔹 **End-to-end delivery ownership** | Roadmap to release, with the metrics to show for it |
+| 🔹 **Technical leadership** | Architecture input, code reviews, and engineering decisions — not just coordination |
+| 🔹 **AI-native workflows** | MCP, RAG, vector search, and automation built into how teams actually work |
+| 🔹 **Integration programmes** | Payment gateways, POS systems, CRMs, webhooks, and third-party platforms |
+| 🔹 **Cross-functional team leadership** | Distributed teams, multiple workstreams, stakeholders across time zones |
 
-Open to senior remote roles in Engineering Management, Technical Project Management, and Lead Software Engineering for SaaS, AI-driven, and technology companies worldwide 🌍
+Open to senior remote roles in **Engineering Management**, **Technical Project Management**, and **Lead Software Engineering** for SaaS, AI-driven, and technology companies worldwide 🌍
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
+
+<div align="center">
 
 **Backend**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,nodejs,python,fastapi&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=react,angular,ionic,js,ts&theme=dark)](https://skillicons.dev)
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark)](https://skillicons.dev)
 
 **DevOps & Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,git,bitbucket,linux&theme=dark)](https://skillicons.dev)
 
 **AI & Automation**
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D4A27F?style=flat&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logo=pinecone&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=openai&theme=dark)](https://skillicons.dev)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=flat-square&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
 **Project Management**
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=jira,confluence&theme=dark)](https://skillicons.dev)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+</div>
 
 ---
 
 ## 🏅 Certifications & Licences
 
-| Certificate | Issuer | Issued | Skills |
-|---|---|---|---|
-| [Technical Project Manager Certificate](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1778783900-51c7db28-0d63-4dbd-9e51-989b747ce52f.jpg) | micro1 | May 2026 | Agile Project Management · Technical Leadership |
+<div align="center">
+
+| 🏆 Certificate | 🏢 Issuer | 📅 Issued | 🔖 Skills |
+|:---|:---|:---|:---|
+| [Technical Project Manager Certificate ↗](https://micro1-portal-data.s3.amazonaws.com/engineer-certificates/1778783900-51c7db28-0d63-4dbd-9e51-989b747ce52f.jpg) | micro1 | May 2026 | Agile Project Management · Technical Leadership |
+
+</div>
 
 ---
 
-## 📬 Reach Me
+## 📬 Get In Touch
 
-- 🌐 Portfolio: [ahmadijaz.github.io/Portfolio](https://ahmadijaz.github.io/Portfolio/?temp=LSE)
-- 💼 LinkedIn: [linkedin.com/in/ahmad-ijaz](https://www.linkedin.com/in/ahmad-ijaz/)
-- 📧 Email: [codeveloper3@gmail.com](mailto:codeveloper3@gmail.com)
+<div align="center">
+
+If you're hiring for **Engineering Management**, **Technical Project Management**, or **Lead Software Engineering** — let's talk.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0a0b0f?style=for-the-badge&logo=githubpages&logoColor=57E3A0)](https://ahmadijaz.github.io/Portfolio/?temp=LSE)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-ijaz/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codeveloper3@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with ❤️ · <a href="https://ahmadijaz.github.io/Portfolio/?temp=LSE">ahmadijaz.github.io/Portfolio</a></sub>
+</div>
