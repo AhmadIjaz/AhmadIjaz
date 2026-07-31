@@ -17,11 +17,11 @@ For the past several years I've been leading engineering and delivery for a US-b
 
 **What I bring:**
 
-- 🔹 **End-to-end delivery ownership** — roadmap to release, with the metrics to show for it
-- 🔹 **Technical leadership** — architecture input, code reviews, and engineering decisions, not just coordination
-- 🔹 **AI-native workflows** — MCP, RAG, vector search, and automation built into how teams actually work
-- 🔹 **Integration programmes** — payment gateways, POS systems, CRMs, webhooks, and third-party platforms
-- 🔹 **Cross-functional team leadership** — distributed teams, multiple workstreams, stakeholders across time zones
+🔹 **End-to-end delivery ownership** — roadmap to release, with the metrics to show for it
+🔹 **Technical leadership** — architecture input, code reviews, and engineering decisions, not just coordination
+🔹 **AI-native workflows** — MCP, RAG, vector search, and automation built into how teams actually work
+🔹 **Integration programmes** — payment gateways, POS systems, CRMs, webhooks, and third-party platforms
+🔹 **Cross-functional team leadership** — distributed teams, multiple workstreams, stakeholders across time zones
 
 Open to senior remote roles in **Engineering Management**, **Technical Project Management**, and **Lead Software Engineering** 🌍
 
